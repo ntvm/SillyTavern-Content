@@ -141,5 +141,12 @@
       "name": "Chat Variables",
       "description": "(For developers). Simple plugin showcasing the capabilities of handlebars and chat metadata in extensions.",
       "url": "https://github.com/SillyTavern/Extension-Variables"
+    },
+    {
+      "id": "EmulatorJS",
+      "type": "extension",
+      "name": "JS Emulator",
+      "description": "This extension allows you to play retro console games right from the SillyTavern chat.",
+      "url": "https://github.com/Cohee1207/SillyTavern-EmulatorJS"
     }
 ]
