@@ -1,31 +1,10 @@
 [
     {
-        "id": "Extension-Audio",
-        "type": "extension",
-        "name": "Dynamic Audio",
-        "description": "Adds immersive background music and ambient sounds to your chats.",
-        "url": "https://github.com/SillyTavern/Extension-Audio"
-    },
-    {
         "id": "Extension-Blip",
         "type": "extension",
         "name": "Blip",
-        "description": "Animate the text of character messages with variable speed and play sound along the animation.",
-        "url": "https://github.com/SillyTavern/Extension-Blip"
-    },
-    {
-        "id": "Extension-Idle",
-        "type": "extension",
-        "name": "Idle",
-        "description": "Adds \"idle prompting\" after the user has been idle for some time to organically continue the conversation.",
-        "url": "https://github.com/SillyTavern/Extension-Idle"
-    },
-    {
-        "id": "Extension-Speech-Recognition",
-        "type": "extension",
-        "name": "Speech Recognition",
-        "description": "Convert your speech to text using browser or extras.",
-        "url": "https://github.com/SillyTavern/Extension-Speech-Recognition"
+        "description": "Animate the text of character messages with variable speed and play sound along the animation. By my thoughts. should be part of ST exactly",
+        "url": "https://github.com/ntvm/Extension-Blip"
     },
     {
         "id": "SillyTavern-Timelines",
@@ -35,46 +14,11 @@
         "url": "https://github.com/SillyTavern/SillyTavern-Timelines"
     },
     {
-        "id": "Extension-RVC",
-        "type": "extension",
-        "name": "RVC",
-        "description": "Adds Realtime Voice Cloning capabilities to the Text-to-Speech module. Requires an Extras API rvc module.",
-        "url": "https://github.com/SillyTavern/Extension-RVC"
-    },
-    {
-        "id": "Extension-Objective",
-        "type": "extension",
-        "name": "Objective",
-        "description": "Set an Objective for the AI to aim for during the chat.",
-        "url": "https://github.com/SillyTavern/Extension-Objective"
-    },
-    {
-        "id": "Extension-Dice",
-        "type": "extension",
-        "name": "D&D Dice",
-        "description": "A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.",
-        "url": "https://github.com/SillyTavern/Extension-Dice"
-    },
-    {
         "id": "Extension-HypeBot",
         "type": "extension",
         "name": "HypeBot",
-        "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription.",
+        "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription. So, doubt that would be uselful.",
         "url": "https://github.com/SillyTavern/Extension-HypeBot"
-    },
-    {
-        "id": "Extension-Randomizer",
-        "type": "extension",
-        "name": "Parameter Randomizer",
-        "description": "Adds ability to randomize API settings sliders with every generation.",
-        "url": "https://github.com/SillyTavern/Extension-Randomizer"
-    },
-    {
-        "id": "Extension-ChromaDB",
-        "type": "extension",
-        "name": "Smart Context",
-        "description": "Adds an alternative vector storage using ChromaDB. Requires an Extras API chromadb module.",
-        "url": "https://github.com/SillyTavern/Extension-ChromaDB"
     },
     {
         "id": "Extension-Variables",
