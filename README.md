@@ -6,8 +6,7 @@ Alternatively, [download](https://github.com/SillyTavern/SillyTavern-Content/arc
 
 Also provides access to the repository of endorsed third-party SillyTavern UI extensions. Want to contribute your extensions to the list? Please [get in contact](https://github.com/SillyTavern/SillyTavern#questions-or-suggestions) with our team!
 
-All rights to copyrighted works are reserved by their respective owners. You should gain their permission if you'd like to redistribute these assets outside of SillyTavern's ecosystem. Please refer to the list below.
-
+All rights to copyrighted works are reserved by their respective owners. You should gain Blah blah. You know the rules
 # Artist credits
 
 ## BGM
