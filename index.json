@@ -118,7 +118,7 @@
     "id": "Extension-Blip",
     "type": "extension",
     "name": "Blip",
-    "description": "Animate the text of character messages with variable speed and play sound along the animation. By my thoughts. should be part of ST exactly",
+    "description": "Animate the text of character messages with variable speed and play sound along the animation. By my thoughts. should be part of ST exactly, But unluckly, EXTREMELY glitchy",
     "url": "https://github.com/ntvm/Extension-Blip"
     },
     {
